@@ -1,0 +1,8 @@
+[
+  "scripts/test_login.py::Test_login::()::test_suc_login[login_test_001-13488834010-159357li1-\\u6211\\u7684\\u4f18\\u60e0\\u5238]",
+  "scripts/test_login.py::Test_login::()::test_suc_login[login_test_014-mlili-159357li-\\u6211\\u7684\\u4f18\\u60e0\\u5238]",
+  "scripts/test_login.py::Test_login::()::test_fail_login[login_test_005-13488834010-159357li-\\u9519\\u8bef-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+  "scripts/test_login.py::Test_login::()::test_fail_login[login_test_009-17722223333-159357-\\u4e0d\\u5b58\\u5728-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]",
+  "scripts/test_login.py::Test_login::()::test_fail_login[login_test_020-mlili-159357-\\u9519\\u8bef-\\u767b\\u5f55\\u5bc6\\u7801\\u9519\\u8bef]",
+  "scripts/test_login.py::Test_login::()::test_fail_login[login_test_024-loop123-159357-\\u4e0d\\u5b58\\u5728-\\u6b64\\u7528\\u6237\\u4e0d\\u5b58\\u5728]"
+]

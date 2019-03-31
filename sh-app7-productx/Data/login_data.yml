@@ -1,0 +1,30 @@
+Login_data:
+  login_test_001:
+    username: "13488834010"
+    passwd: "159357li1"
+    exp_data: "我的优惠券"
+  login_test_005:
+    username: "13488834010"
+    passwd: "159357li"
+    toast_mes: "错误"
+    exp_data: "登录密码错误"
+  login_test_009:
+    username: "17722223333"
+    passwd: "159357"
+    toast_mes: "不存在"
+    exp_data: "此用户不存在"
+  login_test_014:
+    username: "mlili"
+    passwd: "159357li"
+    exp_data: "我的优惠券"
+  login_test_020:
+    username: "mlili"
+    passwd: "159357"
+    toast_mes: "错误"
+    exp_data: "登录密码错误"
+  login_test_024:
+    username: "loop123"
+    passwd: "159357"
+    toast_mes: "不存在"
+    exp_data: "此用户不存在"
+
